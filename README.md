@@ -18,7 +18,7 @@ Using bacterial data collected from volunteers, the goal is to complete a dashbo
 
 ## Website
 
-The interactive webpage can be found here : [](https://shreya093.github.io/Plotly_deploy/)
+The interactive webpage can be found here : [https://shreya093.github.io/Plotly_deploy/](https://shreya093.github.io/Plotly_deploy/)
 
 ## Graphs created with Plotly 
 
@@ -32,5 +32,5 @@ The interactive webpage can be found here : [](https://shreya093.github.io/Plotl
 
 ### 3. Gauge Chart : 
 
-<img width="538" alt="wfreq" src="https://user-images.githubusercontent.com/88418201/141218762-dbefdb96-ffe9-4fcc-8c8a-1a80ff460e3a.png"
+<img width="538" alt="wfreq" src="https://user-images.githubusercontent.com/88418201/141218762-dbefdb96-ffe9-4fcc-8c8a-1a80ff460e3a.png">
 
