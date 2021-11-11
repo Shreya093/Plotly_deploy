@@ -1,0 +1,47 @@
+body {
+
+    color: #070707;
+  }
+
+  .jumbotron {
+    background-image: url("../images/header.png");
+    background-size: 100% 100%;
+    text-align: center;
+    opacity: 0.7;
+  }
+
+  .well {
+    background-color: rgb(217, 238, 248);
+    font-family: Verdana;
+    font-weight: 90;
+    font-size: smaller;
+  }
+
+  .panel {
+    background-color: rgb(217, 238, 248);
+    font-family: Verdana;
+    font-weight: 90;
+    
+      }
+
+
+#know {
+  font-family: Verdana;
+  font-weight: 80;
+  font-size: medium;
+  background-color: rgb(250, 244, 244);
+}
+
+#otu {
+  font-family: Verdana;
+  font-weight: 80;
+  font-size: medium;
+  background-color: rgb(250, 244, 244);
+}
+
+#scrub{
+  font-family: Verdana;
+  font-weight: 80;
+  font-size: medium;
+  background-color: rgb(250, 244, 244);
+}
